@@ -1,2 +1,2 @@
-# elaisian-fe
+# landing
 frontend
